@@ -10,4 +10,4 @@ Example code for typical computer vision tasks.
 
 *Annotations.ipynb* is light weight notebook for simple image annotations.
 
-*YOLO.ipynb* demonstrates YOLO application for birds detection fine tuned with a custom annotations.
+*Yolo.ipynb* demonstrates YOLO application for birds detection fine tuned with a custom annotations.
