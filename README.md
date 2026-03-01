@@ -7,3 +7,7 @@ Example code for typical computer vision tasks.
 *Extract_qupath_.ipynb* contains the code for extracting the annotations from the Qupath projects.
 
 *SAM tutorial.ipynb* demonstrate how to use SAM (Segment Anything model) for image segmenation.
+
+*Annotations.ipynb* is light weight notebook for simple image annotations.
+
+*YOLO.ipynb* demonstrates YOLO application for birds detection fine tuned with a custom annotations.
