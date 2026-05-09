@@ -10,6 +10,6 @@ This repository contains code for the course "Kestrel behavior analysis" at FU B
 
 *SAM tutorial.ipynb* demonstrate how to use SAM (Segment Anything model) for image segmenation.
 
-*Annotations.ipynb* is light weight notebook for simple image annotations.
+*Annotations.ipynb* is a light weight notebook for simple image annotations.
 
 *Yolo.ipynb* demonstrates YOLO8 application for birds detection fine tuned with custom annotations.
