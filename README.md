@@ -2,6 +2,8 @@
 
 Example code for typical computer vision tasks. 
 
+*record_stream.py* is a script to record the video stream for the further processing
+
 *kestrel_age.ipynb* contains the code for the age prediction of kestrel chicken based on their images.
 
 *Extract_qupath_.ipynb* contains the code for extracting the annotations from the Qupath projects.
