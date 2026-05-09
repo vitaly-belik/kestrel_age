@@ -1,6 +1,6 @@
 # kestrel_age
 
-Example code for typical computer vision tasks. 
+This repository contains code for the course "Kestrel behavior analysis" at FU Berlin. It includes the code for typical computer vision tasks. 
 
 *record_stream.py* is a script to record the video stream for the further processing
 
