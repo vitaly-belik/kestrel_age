@@ -22,7 +22,8 @@ def record_chunk(cap, duration = DUR):
         ret, frame = cap.read()
         if not ret:
             print("Stream ended or frame read error")
-            break
+            # break
+            sys.exit(1)
         writer.write(frame)
 
     writer.release()
